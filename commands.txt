@@ -6,3 +6,4 @@ npm install -D @types/node
 npx tsc .\src\server.ts
 npm install tsx -D
 npx tsx .\src\server.ts
+npm i @rocketseat/eslint-config -D
