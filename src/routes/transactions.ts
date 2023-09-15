@@ -55,6 +55,7 @@ export async function transactionsRoutes(app: FastifyInstance) {
         .select()
 
         return { transactions }
+
     })
 
     app.post('/', async(request, reply) => {
