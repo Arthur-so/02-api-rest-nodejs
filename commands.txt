@@ -9,3 +9,4 @@ npx tsx .\src\server.ts
 npm i @rocketseat/eslint-config -D
 npm run knex -- migrate:make crate-documents
 npm i @fastify/cookie
+npm i tsup -D
